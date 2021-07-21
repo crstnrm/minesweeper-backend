@@ -1,4 +1,4 @@
-# minesweeper
+# minesweeper-backend
 
 ## Installation
 
